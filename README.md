@@ -3,6 +3,7 @@
 This project focuses on Natural Language Processing (NLP) using data collected through web scraping. 🕸️ The scraped text is cleaned, preprocessed, and analyzed using various NLP techniques to extract meaningful insights from unstructured web data. 📊
 
 🚀 Key Features
+
 🌐 Web scraping and data collection
 🧹 Text cleaning and preprocessing
 🔤 Tokenization and stop-word removal
