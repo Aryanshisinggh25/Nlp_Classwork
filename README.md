@@ -1,20 +1,23 @@
-NLP Assignment – Web Scraping & Text Analysis
+🤖 NLP Assignment – Web Scraping & Text Analysis 🌐
 
-This project focuses on Natural Language Processing (NLP) using data collected through web scraping. The scraped text is cleaned, preprocessed, and analyzed using various NLP techniques to extract meaningful insights from unstructured web data.
+This project focuses on Natural Language Processing (NLP) using data collected through web scraping. 🕸️ The scraped text is cleaned, preprocessed, and analyzed using various NLP techniques to extract meaningful insights from unstructured web data. 📊
 
-Key Features
-Web scraping and data collection
-Text cleaning and preprocessing
-Tokenization and stop-word removal
-Text normalization
-NLP-based analysis
-Data visualization and insights
-Technologies Used
-Python
-BeautifulSoup
-Requests
-Pandas
-NLTK / spaCy
-Matplotlib / Seaborn
+🚀 Key Features
+🌐 Web scraping and data collection
+🧹 Text cleaning and preprocessing
+🔤 Tokenization and stop-word removal
+✨ Text normalization
+🧠 NLP-based analysis
+📊 Data visualization and insights
+🛠️ Technologies Used
+🐍 Python
+🍲 BeautifulSoup
+🌐 Requests
+🐼 Pandas
+🧠 NLTK / spaCy
+📈 Matplotlib / Seaborn
+🎯 Objective
 
-This repository was created as part of an NLP assignment demonstrating the process of collecting, processing, and analyzing textual data from the web.
+To demonstrate the complete workflow of collecting 🕸️, processing 🧹, and analyzing 🧠 textual data from the web using NLP techniques.
+
+📚 Academic Project | NLP Assignment
