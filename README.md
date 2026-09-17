@@ -29,6 +29,19 @@ The project follows a complete data-processing workflow:
 🎨 Seaborn
 🎯 Objective
 
+
+📌 Data Cleaning in NLP
+
+Data cleaning in Natural Language Processing (NLP) is the process of removing unwanted, incorrect, or unnecessary data from text to improve its quality and prepare it for further processing and analysis.
+
+🔹 Common Data Cleaning Techniques
+Removing Punctuation: Removing special characters like @, #, !, and $.
+Lowercasing: Converting all text into lowercase.
+Removing Stopwords: Removing common words like is, the, a, an.
+Tokenization: Splitting text into individual words or sentences.
+Removing Extra Spaces: Removing unnecessary spaces from text.
+Stemming and Lemmatization: Converting words into their root or base forms.
+
 The objective of this project is to understand the complete process of collecting web data 🕸️, cleaning and preprocessing it 🧹, applying NLP techniques 🧠, and extracting meaningful insights 📊 from the collected information.
 
 🎓 Project Type: Academic NLP Assignment
